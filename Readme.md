@@ -12,5 +12,5 @@ Super simples... alguns itens que utilizei para o projeto:
 
 
 
-https://user-images.githubusercontent.com/74380091/149440183-e25f24b0-7e41-4442-93e4-78b89c986079.mp4
+https://user-images.githubusercontent.com/74380091/149440301-beb607f8-376c-4e32-8055-f35ef60ec83e.mp4
 
