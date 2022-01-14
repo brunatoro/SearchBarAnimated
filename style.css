@@ -1,0 +1,37 @@
+@import url("https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.0.0-beta3/css/all.min.css");
+
+body{
+    background: linear-gradient(90deg, rgba(135,206,250,1) 34%, rgba(173,216,230,1) 55%, rgba(255,255,255,1) 100%);
+    height: 100vh ;
+    display: flex;
+}
+
+.container{
+    margin: 250px auto;
+    background: rgb(255, 255, 255);
+    height: 30px;
+    border-radius: 30px;
+    padding: 15px 20px;
+    display: flex;
+    align-items: center;
+    transition: 0.8s;
+    box-shadow: 0 0 25px 0 black;
+}
+
+.container:hover input{
+    width: 350px;
+} 
+   
+.container input{
+    background: transparent;
+    border: none;
+    outline: none;
+    width: 0px;
+    font-weight: 500;
+    font-size: 20px;
+    transition: 0.8s;
+}
+
+.container .fas{
+    color: black;
+}
